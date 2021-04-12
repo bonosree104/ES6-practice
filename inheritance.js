@@ -5,15 +5,7 @@ class Parent{
     }
 }
 
-
-
-
-
-
-
-
-
-class child extends Parent {
+   class child extends Parent {
     constructor(name){
         super();
         this.name = name;
